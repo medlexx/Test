@@ -1,0 +1,237 @@
+#EXTM3U
+#EXTINF: -1 user-agent='SmartLabs' epg-shift='2' group-title='zabava', Первый канал
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', ТВ 3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF: -1 group-title='zabava', Звезда HD
+http://livezvezda.cdnvideo.ru/zv/zvezda2.sdp/playlist.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF: -1 group-title='zabava', Кинозал Семейный
+http://212.112.101.69:8081/stream25/output.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF: -1 user-agent='SmartLabs' group-title='zabava', ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  /  -1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-3600
+#EXTINF: -1 group-title='ultra hd ', ULTRAHD CINEMA  /  -2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  /  -3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-10800
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  /  -4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  /  -5
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-18000
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  /  -6
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  /  -7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-25200
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  /  -8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  /  -9
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-32400
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -10
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -11
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-39600
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -12
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-43200
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -13
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-46800
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -14
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-50400
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -15
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-54000
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -16
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-57600
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -17
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-61200
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -18
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-64800
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -19
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-68400
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -20
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-72000
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -21
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-75600
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -22
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-79200
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -23
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-82800
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-86400
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -25
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-90000
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -26
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-93600
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -27
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-97200
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -28
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-100800
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -29
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-104400
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -30
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-108000
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -31
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-111600
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -32
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-115200
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -33
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-118800
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -34
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-122400
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -35
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-126000
+#EXTINF: -1 group-title='ultra hd ', ULTRAHD CINEMA  / -36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-129600
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-133200
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -38
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-136800
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -39
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-140400
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -40
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-144000
+#EXTINF: -1 group-title='ultra hd ', ULTRAHD CINEMA  / -41
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -42
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-151200
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -43
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-154800
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -44
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-158400
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -45
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-162000
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -46
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-165600
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -47
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-169200
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -48
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-172800
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -49
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-176400
+#EXTINF: -1 user-agent='rostelecom' group-title='ultra hd ', ULTRAHD CINEMA  / -50
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-180000
+#EXTINF: -1 , СТРАХ HD
+http://s2.myowntv.org/hls/what.m3u8
+#EXTINF: -1 , СОВЕТСКОЕ КИНО
+http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF: -1 , КиноЗаказ 1
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF: -1 , КиноЗаказ 2
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF: -1 , TV1000 Premium
+http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
+#EXTINF: -1 , Иллюзион  
+http://178.124.183.13/hls/V8TRED4CZL/bw1200000/playlist.m3u8
+#EXTINF: -1 user-agent='smartlabs', Cineman
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF: -1 user-agent='smartlabs', Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF: -1 user-agent='smartlabs', Киноман ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF: -1 user-agent='smartlabs', Bazmoc ATV
+http://ott-cdn.ucom.am/s74/04.m3u8
+#EXTINF: -1 user-agent='smartlabs', AR
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF: -1 user-agent='rostelecom', ULTRA HD CINEMA
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF: -1 , НСТ
+http://178.124.183.13/hls/NEZVX5TVZX/bw1200000/playlist.m3u8
+#EXTINF: -1 epg-id='vsetv@107', TV1000
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
+#EXTINF: -1 , TV1000 Русское кино
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
+#EXTINF: -1 epg-id='vsetv@458', TV1000 Action
+http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
+#EXTINF: -1 , Киномикс
+http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
+#EXTINF: -1 , Кинопремьера HD
+http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
+#EXTINF: -1 , Кинохит
+http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
+#EXTINF: -1 , Киносемья
+http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
+#EXTINF: -1 , Киносвидание
+http://persik.by/stream/8138/423934/30.m3u8
+#EXTINF: -1 , Наше Новое Кино
+http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
+#EXTINF: -1 , Еврокино
+http://178.124.183.13/hls/JEDUS3FS7V/bw1200000/playlist.m3u8
+#EXTINF: -1 , Русский Иллюзион
+http://178.124.183.13/hls/CMV4SNACFQ/bw1200000/playlist.m3u8
+#EXTINF: -1 , Мужское кино
+http://178.124.183.13/hls/W7LNWHFGTB/bw1200000/playlist.m3u8
+#EXTINF: -1 , Кинозал HD1 Медиатек
+http://cdn.mediatech.by/cs_virtkinozalhd1/index.m3u8?token=00MTA4MjI4NnwzMzl8MA==&filter=tracks:v1a1a2a3
+#EXTINF: -1 , Кинозал HD2 Медиатек
+http://cdn.mediatech.by/cs_virtkinozalhd2/index.m3u8?token=00MTA4MjI4NnwzMzl8MA==&filter=tracks:v1a1a2a3
+#EXTINF: -1 , Кинозал HD3 Медиатек
+http://cdn.mediatech.by/cs_virtkinozalhd3/index.m3u8?token=00MTA4MjI4NnwzMzl8MA==&filter=tracks:v1a1a2a3
+#EXTINF: -1 , A1
+http://46.32.68.167/s/live/208/86.169.51.136/1/0.m3u8
+#EXTINF: -1 , A2
+http://178.124.183.5/hls/H4DP5GK3AE/variant.m3u8?version=2
+#EXTINF: -1 , Amedia Premium
+http://46.32.68.167/s/live/211/86.169.51.136/1/0.m3u8
+#EXTINF: -1 , Sony Turbo
+http://persik.by/stream/8138/423934/10450.m3u8
+#EXTINF: -1 , Sony SciFi
+http://178.124.183.13/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
+#EXTINF: -1 , Sony Channel HD
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
+#EXTINF: -1 , FOX
+http://178.124.183.13/hls/CH_FOX/bw1200000/playlist.m3u8
+#EXTINF: -1 , BOLT
+http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
+#EXTINF: -1 , STAR CINEMA
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2
+#EXTINF: -1 , ТРК Луч HD
+http://live.trk-luch.ru/hls/live_hi.m3u8
+#EXTINF: -1 , Кинозал 1 (Марс-ТВ)
+https://autopilot.catcast.me/content/37033/index.m3u8
+#EXTINF: -1 , Кинозал 7 (Карате ТВ)
+https://v2.catcast.me/content/37316/index.m3u8
+#EXTINF: -1 , Кинозал 7 Канал
+http://212.112.101.69:8081/stream76/output.m3u8
+#EXTINF: -1 , Кинозал Санат KG
+http://212.112.101.69:8081/stream19/output.m3u8
+#EXTINF: -1 , 12 Канал (Омск)
+http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF: -1 , Ростов-папа HD
+http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF: -1 , Уроки Гитары
+http://persik.by/stream/8138/423934/10516.m3u8
+#EXTINF: -1 , U.HD
+http://95.216.143.86:8888/live/uhd/playlist.m3u8
+#EXTINF: -1 user-agent='rostelecom', RUSSIAN EXTREME ULTRA HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF: -1 , Кінозал СТВ
+http://212.112.101.69:8081/stream23/output.m3u8
+#EXTINF: -1 , МИР СЕРИАЛОВ
+http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_480p.json/index-v1-a1.m3u8
+#EXTINF: -1 , Дом кино (UDP)
+http://109.248.236.41:4433/udp/238.1.1.32:1234
+#EXTINF: -1 , ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
+#EXTINF: -1 user-agent='smartlabs', Пятый канал (только для России)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_5TV/variant.m3u8?version=2
